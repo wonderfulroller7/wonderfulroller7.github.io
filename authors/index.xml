@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://wonderfulroller7.github.io/authors/</link>
+      <atom:link href="https://wonderfulroller7.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://wonderfulroller7.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://wonderfulroller7.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://wonderfulroller7.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wonderfulroller7.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a graduate student at NYU Tandon School specialising in Cybersecurity. My research interests are Cryptography, Application Security, Network Security and AR/VR. I have worked in software development for Oracle FSGBU. Currently I work part-time at the AR/VR lab at NYU College of Dentistry.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
