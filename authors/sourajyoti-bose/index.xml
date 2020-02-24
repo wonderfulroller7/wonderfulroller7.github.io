@@ -5,7 +5,7 @@
     <link>https://wonderfulroller7.github.io/authors/sourajyoti-bose/</link>
       <atom:link href="https://wonderfulroller7.github.io/authors/sourajyoti-bose/index.xml" rel="self" type="application/rss+xml" />
     <description>Sourajyoti Bose</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 09:22:59 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 14:58:59 -0500</lastBuildDate>
     <image>
       <url>https://wonderfulroller7.github.io/img/icon-192.png</url>
       <title>Sourajyoti Bose</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Ceh</title>
+      <title>Spell Checker</title>
+      <link>https://wonderfulroller7.github.io/project/spell_checker/</link>
+      <pubDate>Wed, 11 Dec 2019 14:58:59 -0500</pubDate>
+      <guid>https://wonderfulroller7.github.io/project/spell_checker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEH v10 (Certified Ethical Hacker)</title>
       <link>https://wonderfulroller7.github.io/post/ceh/</link>
-      <pubDate>Mon, 24 Feb 2020 09:22:59 -0500</pubDate>
+      <pubDate>Sun, 24 Feb 2019 09:22:59 -0500</pubDate>
       <guid>https://wonderfulroller7.github.io/post/ceh/</guid>
       <description>
 
@@ -43,14 +51,6 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Spell Checker</title>
-      <link>https://wonderfulroller7.github.io/project/spell_checker/</link>
-      <pubDate>Wed, 11 Dec 2019 14:58:59 -0500</pubDate>
-      <guid>https://wonderfulroller7.github.io/project/spell_checker/</guid>
-      <description></description>
     </item>
     
   </channel>
