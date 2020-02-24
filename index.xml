@@ -35,29 +35,22 @@
       <guid>https://wonderfulroller7.github.io/post/ceh/</guid>
       <description>
 
-&lt;p&gt;I will use this page to track my study for CEH. I have chosen March 15th as the date of my exam. This post will contain to-do lists and materials that I have used to study for it.&lt;/p&gt;
+&lt;p&gt;I will use this page to track my study for CEH. I have chosen **March 15th as the date of my exam. This post will contain to-do lists and materials that I have used to study for it.&lt;/p&gt;
 
 &lt;h2 id=&#34;todo-lists&#34;&gt;Todo Lists&lt;/h2&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Topic&lt;/th&gt;
-&lt;th&gt;Rundown&lt;/th&gt;
-&lt;th&gt;Revision&lt;/th&gt;
-&lt;th&gt;Mock questions&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Ethical Hacking Fundamentals&lt;/td&gt;
-&lt;td&gt;- [ ]&lt;/td&gt;
-&lt;td&gt;- [ ]&lt;/td&gt;
-&lt;td&gt;- [ ]&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Topics
+- [ ] Ethical hacking fundamentals
+- [ ] Reconnaisance and footprinting
+- [ ] Scanning and enumeration
+- [ ] Sniffing and Evasion
+- [ ] Attacking a System
+- [ ] Hacking web servers and applications
+- [ ] Wireless network hacking
+- [ ] Mobile and IoT
+- [ ] Security in cloud computing
+- [ ] Trojans and other attacks
+- [x] Cryptography&lt;/p&gt;
 </description>
     </item>
     
