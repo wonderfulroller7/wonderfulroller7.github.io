@@ -39,18 +39,21 @@
 
 &lt;h2 id=&#34;todo-lists&#34;&gt;Todo Lists&lt;/h2&gt;
 
-&lt;p&gt;Topics
-- [ ] Ethical hacking fundamentals
-- [ ] Reconnaisance and footprinting
-- [ ] Scanning and enumeration
-- [ ] Sniffing and Evasion
-- [ ] Attacking a System
-- [ ] Hacking web servers and applications
-- [ ] Wireless network hacking
-- [ ] Mobile and IoT
-- [ ] Security in cloud computing
-- [ ] Trojans and other attacks
-- [x] Cryptography&lt;/p&gt;
+&lt;p&gt;Topics&lt;/p&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Ethical hacking fundamentals&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Reconnaisance and footprinting&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Scanning and enumeration&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Sniffing and Evasion&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Attacking a System&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Hacking web servers and applications&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Wireless network hacking&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Mobile and IoT&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Security in cloud computing&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Trojans and other attacks&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Cryptography&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
