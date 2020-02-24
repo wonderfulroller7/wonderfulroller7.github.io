@@ -27,7 +27,7 @@
       <guid>https://wonderfulroller7.github.io/post/ceh/</guid>
       <description>
 
-&lt;p&gt;I will use this page to track my study for CEH. I have chosen **March 15th as the date of my exam. This post will contain to-do lists and materials that I have used to study for it.&lt;/p&gt;
+&lt;p&gt;I will use this page to track my study for CEH. I have chosen &lt;strong&gt;March 15th&lt;/strong&gt; as the date of my exam. This post will contain to-do lists and materials that I have used to study for it.&lt;/p&gt;
 
 &lt;h2 id=&#34;todo-lists&#34;&gt;Todo Lists&lt;/h2&gt;
 
@@ -41,7 +41,7 @@
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Attacking a System&lt;/label&gt;&lt;/li&gt;
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Hacking web servers and applications&lt;/label&gt;&lt;/li&gt;
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Wireless network hacking&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Mobile and IoT&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Mobile and IoT&lt;/label&gt;&lt;/li&gt;
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Security in cloud computing&lt;/label&gt;&lt;/li&gt;
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Trojans and other attacks&lt;/label&gt;&lt;/li&gt;
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Cryptography&lt;/label&gt;&lt;/li&gt;
