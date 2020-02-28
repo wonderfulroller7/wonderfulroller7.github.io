@@ -49,5 +49,80 @@
 </description>
     </item>
     
+    <item>
+      <title>Computer Forensics</title>
+      <link>https://wonderfulroller7.github.io/post/computer-forensics/</link>
+      <pubDate>Wed, 24 Apr 2019 13:09:15 -0500</pubDate>
+      <guid>https://wonderfulroller7.github.io/post/computer-forensics/</guid>
+      <description>
+
+&lt;p&gt;An introduction to the field of Computer Forensics.&lt;/p&gt;
+
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;p&gt;For this course we will be using tools like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sleuthkit.org/autopsy/&#34; target=&#34;_blank&#34;&gt;Autopsy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hexworkshop.com/&#34; target=&#34;_blank&#34;&gt;HexWorkshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://accessdata.com/product-download/ftk-imager-version-4-3-0&#34; target=&#34;_blank&#34;&gt;FTKImager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dcfldd.sourceforge.net/&#34; target=&#34;_blank&#34;&gt;dcfldd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.volatilityfoundation.org/releases&#34; target=&#34;_blank&#34;&gt;VolatilityFoundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openstego.com/&#34; target=&#34;_blank&#34;&gt;OpenStego&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;objectives-of-a-computer-forensic-investigation&#34;&gt;Objectives of a Computer Forensic Investigation&lt;/h2&gt;
+
+&lt;p&gt;There are 4 objectives that defines the course of a computer forensic investigation:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Prepare for an investigation&lt;/li&gt;
+&lt;li&gt;Acquire the data for investigation.&lt;/li&gt;
+&lt;li&gt;Analyze the data.&lt;/li&gt;
+&lt;li&gt;Idnetify evidence and present it in a report.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;types-of-investigations&#34;&gt;Types of Investigations&lt;/h2&gt;
+
+&lt;p&gt;There are 2 types of investigations:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Public&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contextualized in criminal cases&lt;/li&gt;
+&lt;li&gt;Conducted by law enforcement officers&lt;/li&gt;
+&lt;li&gt;Driven by statutes in criminal law&lt;/li&gt;
+&lt;li&gt;Protected by the &lt;strong&gt;Fourth Amendment&lt;/strong&gt; from unauthorized search and seizure.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Private&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contextualized in civil cases&lt;/li&gt;
+&lt;li&gt;Conducted by corporations or organizations&lt;/li&gt;
+&lt;li&gt;Driven by statutes in civil law &amp;amp; organizational policies.&lt;/li&gt;
+&lt;li&gt;Internal policies dictate the investigation.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An efficient forensic investigator should be able to perform both public and private investigations successfully.&lt;/p&gt;
+
+&lt;h3 id=&#34;evidence-from-forensics-investigation&#34;&gt;Evidence from Forensics Investigation&lt;/h3&gt;
+
+&lt;p&gt;Every evidence must have the following qualities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reproducible and Verifiable
+
+&lt;ul&gt;
+&lt;li&gt;Evidence must be collected by systematic procedures.&lt;/li&gt;
+&lt;li&gt;Chain of custody and evidence locker to prevent tampering.&lt;/li&gt;
+&lt;li&gt;Use a hash utility and make large copies&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
